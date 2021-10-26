@@ -1,2 +1,3 @@
 last text file
 editing for rebasing
+more editing after rebase
