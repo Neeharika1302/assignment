@@ -1,1 +1,2 @@
 this is a second sample file
+this id edited in master branch to see merge conflict
