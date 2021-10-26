@@ -2,3 +2,4 @@ this is a sample file
 editing for comaprision
 added to working directory
 editing to compare working directory and staged area
+this is an editing for fast forward merges
