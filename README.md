@@ -1,5 +1,5 @@
 # assignment
 
-## Master branch
+##Merge conflict
 
-##Merging
+##Simple Example
